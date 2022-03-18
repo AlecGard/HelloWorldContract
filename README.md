@@ -7,6 +7,7 @@ Hello World contract is deployed to Ropsten at address: [0x9f4c1484Afc07Bb9B40AD
 ### Commands
 
 - `npx hardhat compile`
+- `npx hardhat test`
 - `npx hardhat run scripts/deploy.js --network ropsten`
   - deploy the contract to Ropsten
 - `npx hardhat run scripts/interact.js`
